@@ -1,7 +1,6 @@
 ## Hi there 👋 I'm Giorgos Senteles
 
-- 🔭 I’m currently working on **Full-stack web applications** using technologies like **Node.js**
-- 🌱 I’m currently learning **React** to enhance my front-end skills.
+- 🔭 I’m currently working on **Full-stack web applications** using technologies like **Node.js** and **Spring Boot**
 - 💬 Ask me about **Operating Systems**, **Algorithms**, or anything related to **System Design**.
 - 📫 How to reach me: [giorgossenteles@gmail.com](mailto:giorgossenteles@gmail.com)
 
